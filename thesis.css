@@ -55,9 +55,8 @@ html, button {
     font-family: "Arial Narrow", serif;
     font-size: 18px;
     font-weight: bold;
-    -webkit-text-stroke: 0.9px black; 
+    -webkit-text-stroke: 0.9px rgb(255, 255, 255); 
     /* for Safari and Chrome */
-    color: rgb(255, 255, 255);
     padding: 10px 20px;
     margin: 10px;
     cursor: pointer;
