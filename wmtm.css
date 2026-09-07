@@ -24,21 +24,23 @@ html, body
   font-family: Arial Narrow, Arial, serif;
   font-size: 20px;
 
-    border: 3.5px solid rgb(23, 235, 34);
-  padding: 8px;
-   margin-top: 70px;
+   
+    padding: 8px;
+    margin-top: 70px;
     margin-bottom: 70px;
     margin-left: 70px;
     margin-right: 70px;
 
-   .p2 {background-color: rgb(255, 220, 241);} 
+   } 
   
+.p2{
+  background-color: rgb(255, 220, 241);
 }
 
 html, body {
        background-image: url('https://i.postimg.cc/bvr1zLGK/STRATEGY.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-size: full;
+    background-repeat: repeat;
     background-attachment: fixed;
 }
 
