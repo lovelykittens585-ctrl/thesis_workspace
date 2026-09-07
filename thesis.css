@@ -17,13 +17,14 @@ canvas {
   font-size: 22px;
   text-align: left;
   color: rgb(0, 0, 0);
-}
+  }
+
 html, body
 .p1{
   font-family: Arial Narrow, Arial, serif;
   font-size: 20px;
 
-    border: 3.5px solid rgb(23, 235, 34);
+   
   padding: 8px;
    margin-top: 70px;
     margin-bottom: 70px;
@@ -34,10 +35,18 @@ html, body
   
 }
 
-html, body {
+html, body 
+  .background {
     background-image: url('https://i.postimg.cc/9FHSrwYN/COLLECTOR.png');
     background-size: full;
     background-repeat: repeat;
     background-attachment: fixed;
     background-color: rgb(228, 80, 167);
+}
+
+html,ul {
+  .liststyle {
+    list-style-type: disc;
+  }
+
 }
