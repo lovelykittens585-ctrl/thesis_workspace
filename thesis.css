@@ -52,13 +52,18 @@ html,ul {
 }
 html, button {
   .button {
-    font-family: Arial, Arial, serif;
-    font-size: 16px;
+    font-family: "Arial Narrow", serif;
+    font-size: 18px;
+    font-weight: bold;
+    -webkit-text-stroke: 0.9px black; 
+    /* for Safari and Chrome */
+    color: rgb(255, 255, 255);
     padding: 10px 20px;
     margin: 10px;
     cursor: pointer;
-    background-image: url('https://i.postimg.cc/8FWbLy3F/button-background.png');
+    background-image: url('https://i.postimg.cc/9QmhW3Zk/STICKERZ.png');
     cursor: pointer;
     border-radius: 5px;
   }
 }
+
