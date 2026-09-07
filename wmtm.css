@@ -1,4 +1,5 @@
-html, body {
+  
+  html, body {
   margin: auto;
   padding: auto;
 }
@@ -35,5 +36,11 @@ html, body
 }
 
 html, body {
-    background-color: rgb(228, 80, 167);
+       background-image: url('https://i.postimg.cc/bvr1zLGK/STRATEGY.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
+
+
+ 
