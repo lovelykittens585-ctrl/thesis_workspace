@@ -37,11 +37,10 @@ p2
 
 
 html, body 
-       background-image; url('https://i.postimg.cc/bvr1zLGK/STRATEGY.jpg');
+       background-image; url('https://i.postimg.cc/XJxbB4d3/STICKERZ2.png');
     background-size; cover;
     background-repeat; no-repeat;
     background-attachment; fixed;
     background-color; rgb(228, 80, 167);
 
 
-    
