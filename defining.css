@@ -1,0 +1,47 @@
+  
+    
+  html, body {
+  margin: auto;
+  padding: auto;
+}
+canvas {
+  display: block;
+}
+
+.h1{
+  font-family: Arial, Arial, serif;
+  font-size: 25px;
+  text-align: left;
+  color: rgb(0, 0, 0);
+}
+.h2{
+  font-family: Arial, Arial, serif;
+  font-size: 22px;
+  text-align: left;
+  color: rgb(0, 0, 0);
+}
+html, body
+.p1{
+  font-family: Arial Narrow, Arial, serif;
+  font-size: 20px;
+
+   
+    padding: 8px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 70px;
+    margin-right: 70px;
+
+   } 
+  
+.p2{
+  background-color: rgb(255, 220, 241);
+}
+
+html, body {
+       background-image: url('https://i.postimg.cc/pTkH5RzW/STICKERZ3.png');
+    background-size: full;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-color: rgb(228, 80, 167);
+}
