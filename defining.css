@@ -45,6 +45,10 @@ html, body {
     background-attachment: fixed;
     background-color: rgb(228, 80, 167);
 }
-
+  .gif-credit {
+      padding: 20px;
+      text-align: center;
+      font-size: 14.5px;
+    }
 
 
