@@ -2,8 +2,6 @@
   <head>
     <link rel="stylesheet" type="text/css" href="wmtm.css">
 
-    <script type="text/javascript" src="javascript.js"></script>
-
     <meta charset="utf-8" />
   </head>
   <body>
@@ -39,7 +37,9 @@
 document.getElementById("what-matters-to-me").innerHTML = text.replace("fandom", "<a href='https://docs.google.com/document/d/129LIJERv_b-YCTP9HQBpBJw-2b4OtYOCcoCHubsAO08/edit?usp=sharing'>fandom</a>");
 </script>
 
-<body> <img src="https://i.postimg.cc/3ytSMxfk/diagram-of-reality.png" alt = "diagram of reality"> </body>
+
+<!-- when a gif is embedded, it needs to be within the body tag -->
+<body> 
 </div>
 
 <div> 
@@ -47,8 +47,8 @@ document.getElementById("what-matters-to-me").innerHTML = text.replace("fandom",
   <style>
     img {
       display: block;
-      margin-left: center;
-      margin-right: center;
+      margin-left: auto;
+      margin-right: auto;
       object-fit: contain;
       padding: 20px;
     }
@@ -64,12 +64,11 @@ document.getElementById("what-matters-to-me").innerHTML = text.replace("fandom",
     Gif from: <a href="https://www.youtube.com/watch?v=qQU5Fjqkg0c">BORN STUNNER</a> by ARTMS
   </div>
   <br>
+</body>
 
-<!-- continue button, change to new link -->
  <button class="button"> <a href="defining-terms.html">continue</a> </button>
 
  <!-- links back to thesis.html -->
-
 <a href='thesis.html'>//go back</a> 
 <style>
   .button {
