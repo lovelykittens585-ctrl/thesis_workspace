@@ -52,3 +52,37 @@ html, body {
     }
 
 
+.layout {
+  display: flex;
+  gap: 1em;
+  box-sizing: border-box;
+  justify-content: center;  /* <-- center the columns horizontally */
+  max-width: 100%;          /* ensure it fits inside .content-wrap */
+}
+
+aside, main {
+  padding: 16px;
+  border: 0px solid #ccc;
+  min-height: 300px;
+  box-sizing: border-box;
+}
+
+.left  { flex: 0 0 24%; background: #b1dd8c; }
+.main  { flex: 0 0 56%; background: #b1dd8c; }
+.right { flex: 0 0 20%; background: #b1dd8c; }
+
+@media (max-width: 768px) {
+  .layout {
+    flex-direction: column;
+  }
+  .left, .main, .right {
+    flex: 1 1 100%;
+  }
+}
+.content-wrap {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1em 0;
+  box-sizing: border-box;
+}
