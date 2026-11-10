@@ -37,7 +37,6 @@ html, body
 
 html, body 
   .background {
-    background-image: url('https://i.postimg.cc/9FHSrwYN/COLLECTOR.png');
     background-size: full;
     background-repeat: repeat;
     background-attachment: fixed;
@@ -47,6 +46,8 @@ html, body
 html,ul {
   .liststyle {
     list-style-type: disc;
+    font-family: "Arial Narrow", serif;
+    text-align: left;
   }
 
 }
