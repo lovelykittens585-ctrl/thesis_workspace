@@ -6,8 +6,15 @@ canvas {
   display: block;
 }
 
+.coral-pixels-regular {
+  font-family: "Coral Pixels", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
 .h1{
-  font-family: Arial, Arial, serif;
+  font-family: "Coral Pixels", serif;
   font-size: 25px;
   text-align: left;
   color: rgb(0, 0, 0);
@@ -46,7 +53,7 @@ html, body
 html,ul {
   .liststyle {
     list-style-type: disc;
-    font-family: "Arial Narrow", serif;
+    font-family: "Coral Pixels", serif;
     text-align: left;
   }
 
