@@ -1,7 +1,7 @@
 # thesis_workspace
 thesis website
 
-Annotated Bibliography 
+Annotated Bibliography (will update gradually)
 
 Baudrillard, Jean. 1981. Simulacra and Simulation. University Of Michigan Press.
 	S&S examines the relationships between reality, signs/symbols and society as we begin to construct and understand new ways of existing. I intend to use this as the basis for most of the theoretical background of my thesis, specifically: Hyperreality, Simulation and Simularcum.  
