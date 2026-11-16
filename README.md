@@ -3,7 +3,7 @@
 <i> Cyberspace distorts reality and while not neutral, can be a space that is integral in transforming identity, community and politics. In this thesis I will examine the internet through third space, combining both ethnographic research and informal personal anecdotes of my own. I hope to explore the connection between the offline and online third spaces and how these spaces can become permanent settlements. </i>
 
 
-## <b>Annotated Bibliography </b>
+## <b>Annotated Bibliography (will update gradually)</b>
 
 <i>Baudrillard, Jean. 1981. Simulacra and Simulation. University Of Michigan Press.</i>
 	<br> S&S examines the relationships between reality, signs/symbols and society as we begin to construct and understand new ways of existing. I intend to use this as the basis for most of the theoretical background of my thesis, specifically: Hyperreality, Simulation and Simularcum.  
