@@ -43,7 +43,6 @@ html, body
 .p2{
   font-family: Arial Narrow, Arial, serif;
   font-size: 15px;
-
    
     padding: 8px;
     margin-top: 70px;
@@ -53,12 +52,27 @@ html, body
 
 }
 
+.quote{
+font-family: "Coral Pixels", serif;
+font-size: 15px ;
+font-style:italic
+}
+
+.caption{
+font-family: Arial Narrow, Arial; 
+text-align: center;
+font-size: 14px ;
+font-style:italic
+}
+
 html, body {
     background-size: full;
     background-repeat: repeat;
     background-attachment: fixed;
     background-color: rgb(255, 255, 255);
 }
+
+
 
 html, button {
   .button {
