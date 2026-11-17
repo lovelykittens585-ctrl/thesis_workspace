@@ -5,11 +5,30 @@
 canvas {
   display: block;
 }
+
+.wrapper {
+  max-width: 1200px;
+   width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  
+}
+.page {
+  width: 700px;
+  margin: 0 auto; 
+  text-align: justify; }
+
 .coral-pixels-regular {
   font-family: "Coral Pixels", serif;
   font-weight: 400;
   font-style: normal;
 }
+.vt323-regular {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 
 
@@ -54,7 +73,7 @@ html, body
 
 .quote{
 font-family: "Coral Pixels", serif;
-font-size: 15px ;
+font-size: 18px ;
 font-style:italic
 }
 
@@ -65,12 +84,31 @@ font-size: 14px ;
 font-style:italic
 }
 
-.footnote{
-font-family: Arial Narrow, Arial;
+.side-noteleft{
+position: absolute;
+margin-left: -300px;
+float: left;
+margin-top: 70px;
+padding: 20px;
+font-family: "VT323", monospace;
 text-align: left;
-font-size: 12px ;
+font-size: 14px ;
 font-style:italic
 }
+
+.side-noteright{
+position: absolute;
+margin-right: -1000px;
+float: right;
+margin-top: 70px;
+padding: 20px;
+font-family: "VT323", monospace;
+text-align: right;
+font-size: 15px ;
+font-style:italic
+}
+
+
 
 html, body {
     background-size: full;
