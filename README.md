@@ -6,14 +6,15 @@
 ## <b>Annotated Bibliography (will update gradually)</b>
 
 <i>Baudrillard, Jean. 1981. Simulacra and Simulation. University Of Michigan Press.</i>
-	<br> S&S examines the relationships between reality, signs/symbols and society as we begin to construct and understand new ways of existing. I intend to use this as the basis for most of the theoretical background of my thesis, specifically: Hyperreality, Simulation and Simularcum.  
+	<br> Philosophical essay that goes over  Baudrillard’s theories of the postmodern.  examines the relationships between reality, signs/symbols and society as we begin to construct and understand new ways of existing. The essay itself is limited in that it’s a bit outdated in terms of the references and examples it uses but is strong in how it uses these examples to demonstrate simulacrum and simulation. I intend to use this as a way to introduce the internet as a place that isn’t just online but expands beyond the net through his concept of simulation. 
 
 <i>Hiroki Azuma. 2009. Otaku: Japan’s Database Animals. University Of Minnesota Press.</i> <br>
-	Azuma examines otaku culture through his own concept of database consumption (“...mode of consumption to gain access to the “database” of elements that make up the work.”). I intend to use this text to analyze how internet users utilize the content they engage with.
+	A nonfiction essay that goes over Otaku culture as it pertains to consuming media. Azuma examines otaku culture through his own concept of database consumption (“...mode of consumption to gain access to the “database” of elements that make up the work.”). Its main strength is that it focuses on a participatory culture (i.e. fandom) and goes over its development on the internet. Its limitations is mainly in its date/time, while a lot of it still holds up portions of the text focused on an internet that has been largely forgotten and remains specific to Japanese otaku circles over an international one(also due to time/date).   
+
 
 <i>Nakamura, Lisa. 2008. Digitizing Race Visual Cultures of the Internet. University of Minnesota Press.</i> <br>
-	Nakamura examines race, gender and ethnicity's impact on digital media. I intend to use this text to support my ethnographic research and how the identities of users are impacted by the digital landscape. 
-
+	A nonfiction essay that examines race, gender and ethnicity's impact on digital media. Nakamura uses an ethnographical approach to exploring race and its impact on the internet as well as racialized users. Additionally, she describes histories of specific users and online groups. The strength of this source is that it gives a perspective that is often forgotten in conversations about the internet, as racialized users often are subjected to writing their own histories. Additionally, she provides a framework that makes these users producers of digital media rather than passive consumers. The limitations of the text are in its time/date as well as still operating within a framework of a platform (e.g. facebook)  . I intend to use this text to support my ethnographic research and how the identities of users and the platforms/spaces they occupy are impacted by the digital landscape. 
+	
 <i>Nakamura, Lisa. 2026. The Inattention Economy - How Women of Color Built the Internet. U of Minnesota Press.</i> <br>
 	Nakamura delves into the history of the internet and the roles of women of color played in its production. This will help me add background to the general historical research I currently have. 
 
