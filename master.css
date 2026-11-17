@@ -65,6 +65,13 @@ font-size: 14px ;
 font-style:italic
 }
 
+.footnote{
+font-family: Arial Narrow, Arial;
+text-align: left;
+font-size: 12px ;
+font-style:italic
+}
+
 html, body {
     background-size: full;
     background-repeat: repeat;
