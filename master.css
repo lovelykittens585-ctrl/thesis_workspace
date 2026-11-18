@@ -98,14 +98,15 @@ font-style:italic
 
 .side-noteright{
 position: absolute;
-margin-right: -500px;
-float: right;
-margin-top: 70px;
-padding: 20px;
+margin-right: -600px; 
+margin-top: 10px;
+margin-left: 700px; 
+float: right; 
+padding:0%;
 font-family: "VT323", monospace;
 text-align: right;
 font-size: 15px ;
-font-style:italic
+font-style:italic;
 }
 
 
