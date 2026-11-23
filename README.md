@@ -10,7 +10,7 @@
 	<br> Philosophical essay that goes over  Baudrillard’s theories of the postmodern.  examines the relationships between reality, signs/symbols and society as we begin to construct and understand new ways of existing. The essay itself is limited in that it’s a bit outdated in terms of the references and examples it uses but is strong in how it uses these examples to demonstrate simulacrum and simulation. I intend to use this as a way to introduce the internet as a place that isn’t just online but expands beyond the net through his concept of simulation. 
 
 <i>Hiroki Azuma. 2009. Otaku: Japan’s Database Animals. University Of Minnesota Press.</i> <br>
-	A nonfiction essay that goes over Otaku culture as it pertains to consuming media. Azuma examines otaku culture through his own concept of database consumption (“...mode of consumption to gain access to the “database” of elements that make up the work.”). Its main strength is that it focuses on a participatory culture (i.e. fandom) and goes over its development on the internet. Its limitations is mainly in its date/time, while a lot of it still holds up portions of the text focused on an internet that has been largely forgotten and remains specific to Japanese otaku circles over an international one(also due to time/date).   
+	A nonfiction essay that goes over Otaku culture as it pertains to consuming media. Azuma examines otaku culture through his own concept of database consumption (“...mode of consumption to gain access to the “database” of elements that make up the work.”). Its main strength is that it focuses on a participatory culture (i.e. fandom) and goes over its development on the internet. Its limitations is mainly in its date/time, while a lot of it still holds up portions of the text focused on an internet that has been largely forgotten and remains specific to Japanese otaku circles over an international one(also due to time/date).  
 
 
 <i>Nakamura, Lisa. 2008. Digitizing Race Visual Cultures of the Internet. University of Minnesota Press.</i> <br>
@@ -26,7 +26,6 @@
 <i>Sherbert, Biz. 2022. “Intimacy and the Machine: Slouching Towards Girlblogging.” Various Artists, January 28. https://various-artists.com/girlblogger/.</i> <br>
 	A blog post detailing the world of “girlblogging”. This text will be used in sections that pertain to users’ crafting/mixing identities through social networking and constituent  aesthetics (i.e. using elements of public persona, media and text). Companion to Database Animals. A case study to support the “purpose” and “place” framework of my thesis. Strengths are mostly in its examination of a hyper-specific sect of internet users and how identity is formed through a carefully curated online persona.  Weaknesses are in its specificity as well as its overall focus on online performance. <br>
 
-
 <i> Konior, B. (2026). The dark forest theory of the internet. Polity.<i>
  <br>	Nonfiction essay that primarily focuses on and pushes back on the idea of the internet as an open, non-neutral space. I intend to use the text to strengthen the "politics" section of my framework and provide a potential argument/explanation as to why people nowadays are not so keen on creating communities online. The strengths are primarily in its criticality of the internet and its focus on the surveillance and overall uncertainty of cyberspace. The weakness is found in emphasis on the risks, dangers and anxieties of the internet which, while important, is not helpful to my thesis’s focus on community-building. <br>
 
@@ -35,7 +34,7 @@
 
 
 <i>Solano, Romeo. “The Small Web Is Huge.” Conference presentation at the Seattle GNU/Linux Conference (SeaGL), Seattle, October 23, 2026. Video recording. https://dn711504.ca.archive.org/0/items/small\_web/11787-48384.mp4. Talk description: https://pretalx.seagl.org/2026/talk/GQZEUY/. <i>
-	<br>A conference presentation that examines the world of the small-web and contrasts it with social media sites/centralized social networking sites. I intend to utilize it as a case study as well as a way to support my “place” and “purpose” portions of the framework I’m building. Its strengths are in its personal anecdotes as well as the presenter's time as a developer and user of the small-web.  Its main weakness is that it doesn’t directly talk about the small web as an alternative to social networking sites, but a supplement to them.<br>
+	<br>A conference presentation that examines the world of the small-web and contrasts it with social media sites/centralized social networking sites. I intend to utilize it as a case study as well as a way to support my “place” and “purpose” portions of the framework I’m building. Its strengths are in its personal anecdotes as well as the presenter’s time as a developer and user of the small-web.  Its main weakness is that it doesn’t directly talk about the small web as an alternative to social networking sites, but a supplement to them.<br>
 
 
 
@@ -58,13 +57,13 @@
 
 ### Figure 1. Instagram girl artist
 
-![Instagram story by @Yo0n___a](yoona_ss.png)
+<img src="yoona_ss.png" alt="Instagram story by @Yo0n___a" width="50%">
 
 *Via @Yo0n___a’s Instagram story.*
 
 ### Figure 2. Malfoid website screenshot
 
-![Screenshot of the Malfoid website](malfoid.png)
+<img src="malfoid.png" alt="Screenshot of the Malfoid website" width="50%">
 
 - [Post-Literate Worlds](https://www.are.na/matthew-k-u8w3uicdgow/post-literate-worlds)
 - [What Can Artists Learn from Brainrot?](https://www.sleek-mag.com/article/what-can-artists-learn-from-brain-rot/)
@@ -74,21 +73,21 @@ The incel semiotician (4chan aesthetics, wojacks) as opposed to Instagram girl a
 
 ### Figure 3. Wikipedia Top Read screenshot (11/16/2026)
 
-[Screenshot of Wikipedia Top Read](ao3:911.png)
+<img src="ao3:911.png" alt="Screenshot of Wikipedia Top Read" width="50%">
 
 ### Figure 4. Legacy Contact via iOS Settings
 
-![Legacy Contact setting in iOS](https://support.apple.com/en-us/102631)
+<img src="https://support.apple.com/en-us/102631" alt="Legacy Contact setting in iOS" width="50%">
 
 ### Figure 5. Legacy Contact security screenshot
 
-![Screenshot of Apple’s Legacy Contact security information](legacycontact.png)
+<img src="legacycontact.png" alt="Screenshot of Apple’s Legacy Contact security information" width="50%">
 
 *Via Apple’s website.*
 
 ### Figure 6. Digital Pollution Theory screenshot
 
-![Digital Pollution Theory screenshot](digital pollution.png)
+<img src="digital%20pollution.png" alt="Digital Pollution Theory screenshot" width="50%">
 
 *Via Are.na, from user Jasmine Kennedy.*
 
@@ -96,7 +95,7 @@ The incel semiotician (4chan aesthetics, wojacks) as opposed to Instagram girl a
 
 ### Figure 7. Simulationship Meme
 
-[!“Simulationship”](IMG_5174.JPG)
+<img src="IMG_5174.JPG" alt="Simulationship" width="50%">
 
 *Via Are.na.*
 
@@ -121,11 +120,8 @@ Vine → Musical.ly → TikTok → Instagram Reels/YouTube Shorts
 
 ### Figure 8. *Because the Internet*, Childish Gambino (2013)
 
-![Childish Gambino](Because_the_Internet-2322593848.jpg)
+<img src="Because_the_Internet-2322593848.jpg" alt="Childish Gambino" width="50%">
 
 > [“Because of the internet I’m here, because of the internet we’re all here. It’s the language of earth. Everyone keeps saying by this or that year, Mandarin or Spanish will be the most dominant language, but the internet is already a language we are all connected to; even my dad can understand the meme format. But the thing is, there are no rules, which is also an awesome thing.”](https://web.archive.org/web/20131113235230/http://exclaim.ca/News/childish_gambino_discusses_because_internet_complexity_of_web-era_issues)
 
 — Childish Gambino, via Exclaim
-
-
-
