@@ -90,7 +90,7 @@ The incel semiotician (4chan aesthetics, wojacks) as opposed to Instagram girl a
 
 ### Figure 6. Digital Pollution Theory screenshot
 
-![Digital Pollution Theory screenshot](digital-pollution.png)
+![Digital Pollution Theory screenshot](digital pollution.png)
 
 *Via Are.na, from user Jasmine Kennedy.*
 
@@ -98,7 +98,7 @@ The incel semiotician (4chan aesthetics, wojacks) as opposed to Instagram girl a
 
 ### Figure 7. Meme
 
-![“Simulationship” meme](IMG_5174.jpg)
+[“Simulationship” meme](IMG_5174.JPG)
 
 *Via Are.na.*
 
