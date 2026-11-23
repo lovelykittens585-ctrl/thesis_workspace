@@ -112,16 +112,13 @@ Related links:
 - Buy Nothing Hyde Park/Kenwood
 - Buy Nothing Bronzeville, South Loop, Kenwood
 
-### Life after a dead internet: Zombie-net
+Life after a dead internet: Zombie-net
+If the dead internet theory is true in any capacity,
+what comes after? Why’s no one asking?
 
-If the dead internet theory is true in any capacity, what comes after? Why’s no one asking?
-
-### The Untold Story of Club Penguin Armies
-
-[Watch Video](https://youtu.be/SlCSbwLmWD0?si=dB-JQXjDPGsi6S-7).
+[The Untold Story of Club Penguin Armies](https://youtu.be/SlCSbwLmWD0?si=dB-JQXjDPGsi6S-7).
 
 ### Shortform evolution
-
 Vine → Musical.ly → TikTok → Instagram Reels/YouTube Shorts
 
 ### Figure 8. *Because the Internet*, Childish Gambino (2013)
