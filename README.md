@@ -58,13 +58,13 @@
 
 ### Figure 1. Instagram girl artist
 
-![Instagram story by @Yo0n___a](images/figure-01-instagram-girl-artist.jpg)
+![Instagram story by @Yo0n___a](Poona_ss.png)
 
 *Via @Yo0n___a’s Instagram story.*
 
 ### Figure 2. Malfoid website screenshot
 
-![Screenshot of the Malfoid website](images/figure-02-malfoid-website.jpg)
+![Screenshot of the Malfoid website](malfoid.png)
 
 Related links:
 - [Post-Literate Worlds](https://www.are.na/matthew-k-u8w3uicdgow/post-literate-worlds)
@@ -76,21 +76,21 @@ The incel semiotician (4chan aesthetics, wojacks) as opposed to Instagram girl a
 
 ### Figure 3. Wikipedia Top Read screenshot (11/16/2026)
 
-![Screenshot of Wikipedia Top Read](images/figure-03-wikipedia-top-read.jpg)
+![Screenshot of Wikipedia Top Read](ao3:911.png)
 
 ### Figure 4. Legacy Contact via iOS Settings
 
-![Legacy Contact setting in iOS](images/figure-04-legacy-contact-ios.jpg)
+![Legacy Contact setting in iOS](https://support.apple.com/en-us/102631)
 
 ### Figure 5. Legacy Contact security screenshot
 
-![Screenshot of Apple’s Legacy Contact security information](images/figure-05-legacy-contact-security.jpg)
+![Screenshot of Apple’s Legacy Contact security information](legacy-contact.png)
 
 *Via Apple’s website.*
 
 ### Figure 6. Digital Pollution Theory screenshot
 
-![Digital Pollution Theory screenshot](images/figure-06-digital-pollution-theory.jpg)
+![Digital Pollution Theory screenshot](digital-pollution.png)
 
 *Via Are.na, from user Jasmine Kennedy.*
 
@@ -98,7 +98,7 @@ The incel semiotician (4chan aesthetics, wojacks) as opposed to Instagram girl a
 
 ### Figure 7. Meme
 
-![“Simulationship” meme](images/figure-07-simulationship-meme.jpg)
+![“Simulationship” meme](IMG_5174.jpg)
 
 *Via Are.na.*
 
@@ -118,7 +118,7 @@ If the dead internet theory is true in any capacity, what comes after? Why’s n
 
 ### The Untold Story of Club Penguin Armies
 
-[Read the article](https://youtu.be/SlCSbwLmWD0?si=dB-JQXjDPGsi6S-7).
+[Watch Video](https://youtu.be/SlCSbwLmWD0?si=dB-JQXjDPGsi6S-7).
 
 ### Shortform evolution
 
@@ -126,7 +126,7 @@ Vine → Musical.ly → TikTok → Instagram Reels/YouTube Shorts
 
 ### Figure 8. *Because the Internet*, Childish Gambino (2013)
 
-![Childish Gambino](images/figure-08-childish-gambino.jpg)
+![Childish Gambino](Because_the_Internet-23225938.jpg)
 
 > [“Because of the internet I’m here, because of the internet we’re all here. It’s the language of earth. Everyone keeps saying by this or that year, Mandarin or Spanish will be the most dominant language, but the internet is already a language we are all connected to; even my dad can understand the meme format. But the thing is, there are no rules, which is also an awesome thing.”](https://web.archive.org/web/20131113235230/http://exclaim.ca/News/childish_gambino_discusses_because_internet_complexity_of_web-era_issues)
 
