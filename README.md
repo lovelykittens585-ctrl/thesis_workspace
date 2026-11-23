@@ -1,6 +1,7 @@
 # thesis_workspace
 ### Abstract 
-<i> Cyberspace distorts reality and while not neutral, can be a space that is integral in transforming identity, community and politics. In this thesis I will examine the internet through third space, combining both ethnographic research and informal personal anecdotes of my own. I hope to explore the connection between the offline and online third spaces and how these spaces can become permanent settlements. </i>
+<i> Cyberspace distorts reality and while not neutral, can be a space that is integral in transforming identity, community and politics. In this thesis I will examine the internet through third space, combining both ethnographic research and informal personal anecdotes of my own. I hope to explore the connection between the offline and online third spaces and how these spaces can become permanent settlements. In order to utilize cyberspace as the new frontier of third spaces we must start with Place:  Where we occupy space currently, Purpose: Why we occupy these spaces and Politics: the semiotics of these spaces and why we fight for them.
+ </i>
 
 
 ## <b>Annotated Bibliography (will update gradually)</b>
