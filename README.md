@@ -75,9 +75,7 @@ The incel semiotician (4chan aesthetics, wojacks) as opposed to Instagram girl a
 
 <img src="ao3:911.png" alt="Screenshot of Wikipedia Top Read" width="50%">
 
-### Figure 4. Legacy Contact via iOS Settings
-
-<img src="https://support.apple.com/en-us/102631" alt="Legacy Contact setting in iOS" width="50%">
+### Figure 4. [Legacy Contact via iOS Settings]("https://support.apple.com/en-us/102631") 
 
 ### Figure 5. Legacy Contact security screenshot
 
