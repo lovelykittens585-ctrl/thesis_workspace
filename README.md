@@ -126,7 +126,7 @@ Vine → Musical.ly → TikTok → Instagram Reels/YouTube Shorts
 
 ### Figure 8. *Because the Internet*, Childish Gambino (2013)
 
-![Childish Gambino](Because_the_Internet-23225938.jpg)
+![Childish Gambino](Because_the_Internet-2322593848.jpg)
 
 > [“Because of the internet I’m here, because of the internet we’re all here. It’s the language of earth. Everyone keeps saying by this or that year, Mandarin or Spanish will be the most dominant language, but the internet is already a language we are all connected to; even my dad can understand the meme format. But the thing is, there are no rules, which is also an awesome thing.”](https://web.archive.org/web/20131113235230/http://exclaim.ca/News/childish_gambino_discusses_because_internet_complexity_of_web-era_issues)
 
