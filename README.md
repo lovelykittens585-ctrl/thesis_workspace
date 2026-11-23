@@ -37,13 +37,13 @@
 <i>Solano, Romeo. “The Small Web Is Huge.” Conference presentation at the Seattle GNU/Linux Conference (SeaGL), Seattle, October 23, 2026. Video recording. https://dn711504.ca.archive.org/0/items/small\_web/11787-48384.mp4. Talk description: https://pretalx.seagl.org/2026/talk/GQZEUY/. <i>
 	<br>A conference presentation that examines the world of the small-web and contrasts it with social media sites/centralized social networking sites. I intend to utilize it as a case study as well as a way to support my “place” and “purpose” portions of the framework I’m building. Its strengths are in its personal anecdotes as well as the presenter's time as a developer and user of the small-web.  Its main weakness is that it doesn’t directly talk about the small web as an alternative to social networking sites, but a supplement to them.<br>
 
-## <b>Alt Bibliography<b>
 
-# Alt Bibliography
+
+## Alt Bibliography
 
 *Everything I didn’t or couldn’t cite but still contributed to the framework I was building in the thesis anyway.*
 
-## Place, Purpose, Politics
+### Place, Purpose, Politics
 
 - Screenshots I took
 - Screenshots I took of other screenshots
