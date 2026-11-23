@@ -74,7 +74,7 @@ The incel semiotician (4chan aesthetics, wojacks) as opposed to Instagram girl a
 
 ### Figure 3. Wikipedia Top Read screenshot (11/16/2026)
 
-![Screenshot of Wikipedia Top Read](ao3:911.png)
+[!Screenshot of Wikipedia Top Read](ao3:911.png)
 
 ### Figure 4. Legacy Contact via iOS Settings
 
