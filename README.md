@@ -58,7 +58,7 @@
 
 ### Figure 1. Instagram girl artist
 
-![Instagram story by @Yo0n___a](Poona_ss.png)
+![Instagram story by @Yo0n___a](yoona_ss.png)
 
 *Via @Yo0n___a’s Instagram story.*
 
