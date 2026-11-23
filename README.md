@@ -4,7 +4,7 @@
  </i>
 
 
-## <b>Annotated Bibliography (will update gradually)</b>
+## <b>Annotated Bibliography</b>
 
 <i>Baudrillard, Jean. 1981. Simulacra and Simulation. University Of Michigan Press.</i>
 	<br> Philosophical essay that goes over  Baudrillard’s theories of the postmodern.  examines the relationships between reality, signs/symbols and society as we begin to construct and understand new ways of existing. The essay itself is limited in that it’s a bit outdated in terms of the references and examples it uses but is strong in how it uses these examples to demonstrate simulacrum and simulation. I intend to use this as a way to introduce the internet as a place that isn’t just online but expands beyond the net through his concept of simulation. 
@@ -36,5 +36,101 @@
 
 <i>Solano, Romeo. “The Small Web Is Huge.” Conference presentation at the Seattle GNU/Linux Conference (SeaGL), Seattle, October 23, 2026. Video recording. https://dn711504.ca.archive.org/0/items/small\_web/11787-48384.mp4. Talk description: https://pretalx.seagl.org/2026/talk/GQZEUY/. <i>
 	<br>A conference presentation that examines the world of the small-web and contrasts it with social media sites/centralized social networking sites. I intend to utilize it as a case study as well as a way to support my “place” and “purpose” portions of the framework I’m building. Its strengths are in its personal anecdotes as well as the presenter's time as a developer and user of the small-web.  Its main weakness is that it doesn’t directly talk about the small web as an alternative to social networking sites, but a supplement to them.<br>
+
+## <b>Alt Bibliography<b>
+
+# Alt Bibliography
+
+*Everything I didn’t or couldn’t cite but still contributed to the framework I was building in the thesis anyway.*
+
+## Place, Purpose, Politics
+
+- Screenshots I took
+- Screenshots I took of other screenshots
+- [Are.na channels](are.na)
+- Words and phrases I came up with
+- Words and phrases other people came up with
+- Memes (vulgar, relatable, and otherwise)
+- Articles that didn’t contribute to the thesis text but relate to its ideas, concepts, and overall ethos
+- Videos (MP4 or YouTube)
+
+## Images and Notes
+
+### Figure 1. Instagram girl artist
+
+![Instagram story by @Yo0n___a](images/figure-01-instagram-girl-artist.jpg)
+
+*Via @Yo0n___a’s Instagram story.*
+
+### Figure 2. Malfoid website screenshot
+
+![Screenshot of the Malfoid website](images/figure-02-malfoid-website.jpg)
+
+Related links:
+- [Post-Literate Worlds](https://www.are.na/matthew-k-u8w3uicdgow/post-literate-worlds)
+- [What Can Artists Learn from Brainrot?](https://www.sleek-mag.com/article/what-can-artists-learn-from-brain-rot/)
+
+### Incel semiotician
+
+The incel semiotician (4chan aesthetics, wojacks) as opposed to Instagram girl artists. The incel semiotician thrives on the grift and speaks through anime waifu profile pictures. Contemporary NEETs. The anguish is the same, yet mostly defined by isolation and distinction (as per Bourdieu). A tight-knit community gathered together for one purpose: self-pity.
+
+### Figure 3. Wikipedia Top Read screenshot (11/16/2026)
+
+![Screenshot of Wikipedia Top Read](images/figure-03-wikipedia-top-read.jpg)
+
+### Figure 4. Legacy Contact via iOS Settings
+
+![Legacy Contact setting in iOS](images/figure-04-legacy-contact-ios.jpg)
+
+### Figure 5. Legacy Contact security screenshot
+
+![Screenshot of Apple’s Legacy Contact security information](images/figure-05-legacy-contact-security.jpg)
+
+*Via Apple’s website.*
+
+### Figure 6. Digital Pollution Theory screenshot
+
+![Digital Pollution Theory screenshot](images/figure-06-digital-pollution-theory.jpg)
+
+*Via Are.na, from user Jasmine Kennedy.*
+
+**Platform shift:** Personal blogging sites → Tumblr → Substack → Instagram text posts.
+
+### Figure 7. Meme
+
+![“Simulationship” meme](images/figure-07-simulationship-meme.jpg)
+
+*Via Are.na.*
+
+Related links:
+- [Hyperlink Hodgepodge](https://www.are.na/sven/hyperlink-hodgepodge)
+- [The Small Web Is Huge](https://dn711504.ca.archive.org/0/items/small_web/11787-48384.mp4)
+- [Neocities](http://Neocities.org)
+
+### Buy Nothing Facebook groups
+
+- Buy Nothing Hyde Park/Kenwood
+- Buy Nothing Bronzeville, South Loop, Kenwood
+
+### Life after a dead internet: Zombie-net
+
+If the dead internet theory is true in any capacity, what comes after? Why’s no one asking?
+
+### The Untold Story of Club Penguin Armies
+
+[Read the article](https://youtu.be/SlCSbwLmWD0?si=dB-JQXjDPGsi6S-7).
+
+### Shortform evolution
+
+Vine → Musical.ly → TikTok → Instagram Reels/YouTube Shorts
+
+### Figure 8. *Because the Internet*, Childish Gambino (2013)
+
+![Childish Gambino](images/figure-08-childish-gambino.jpg)
+
+> [“Because of the internet I’m here, because of the internet we’re all here. It’s the language of earth. Everyone keeps saying by this or that year, Mandarin or Spanish will be the most dominant language, but the internet is already a language we are all connected to; even my dad can understand the meme format. But the thing is, there are no rules, which is also an awesome thing.”](https://web.archive.org/web/20131113235230/http://exclaim.ca/News/childish_gambino_discusses_because_internet_complexity_of_web-era_issues)
+
+— Childish Gambino, via Exclaim
+
 
 
