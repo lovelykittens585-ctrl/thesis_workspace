@@ -38,5 +38,7 @@ Cyberspace distorts reality and while not neutral, can be a space that is integr
 
 **Solano, Romeo.** “The Small Web Is Huge.” Conference presentation at the Seattle GNU/Linux Conference (SeaGL), Seattle, October 23, 2026. Video recording. https://dn711504.ca.archive.org/0/items/small_web/11787-48384.mp4. Talk description: https://pretalx.seagl.org/2026/talk/GQZEUY/.
 
-> [ALT_BIB.pdf](https://github.com/user-attachments/files/35302324/ALT_BIB.pdf)
-A conference presentation that examines the world of the small web and contrasts it with social media sites and centralized social networking sites. I intend to use it as a case study and as a way to support the “place” and “purpose” portions of the framework I’m building. Its strengths are in its personal anecdotes and the presenter’s time as a developer and user of the small web. Its main weakness is that it doesn’t directly discuss the small web as an alternative to social networking sites, but as a supplement to them.
+> A conference presentation that examines the world of the small web and contrasts it with social media sites and centralized social networking sites. I intend to use it as a case study and as a way to support the “place” and “purpose” portions of the framework I’m building. Its strengths are in its personal anecdotes and the presenter’s time as a developer and user of the small web. Its main weakness is that it doesn’t directly discuss the small web as an alternative to social networking sites, but as a supplement to them.
+
+## ALT BIB 
+[ALT_BIB.pdf](https://github.com/user-attachments/files/35302324/ALT_BIB.pdf)
