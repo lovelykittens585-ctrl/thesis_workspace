@@ -66,12 +66,10 @@
 
 ![Screenshot of the Malfoid website](malfoid.png)
 
-Related links:
 - [Post-Literate Worlds](https://www.are.na/matthew-k-u8w3uicdgow/post-literate-worlds)
 - [What Can Artists Learn from Brainrot?](https://www.sleek-mag.com/article/what-can-artists-learn-from-brain-rot/)
 
-### Incel semiotician
-
+<b>Incel semiotician<b>
 The incel semiotician (4chan aesthetics, wojacks) as opposed to Instagram girl artists. The incel semiotician thrives on the grift and speaks through anime waifu profile pictures. Contemporary NEETs. The anguish is the same, yet mostly defined by isolation and distinction (as per Bourdieu). A tight-knit community gathered together for one purpose: self-pity.
 
 ### Figure 3. Wikipedia Top Read screenshot (11/16/2026)
@@ -96,9 +94,9 @@ The incel semiotician (4chan aesthetics, wojacks) as opposed to Instagram girl a
 
 **Platform shift:** Personal blogging sites → Tumblr → Substack → Instagram text posts.
 
-### Figure 7. Meme
+### Figure 7. Simulationship Meme
 
-[“Simulationship” meme](IMG_5174.JPG)
+[!“Simulationship”](IMG_5174.JPG)
 
 *Via Are.na.*
 
